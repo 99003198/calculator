@@ -1,0 +1,19 @@
+TEST PLAN: 
+Test id	Description	Input	Expected output	Actual output
+1	Addition of two numbers	 a=1, b=2 output=	3	
+2	Subtraction of two numbers	a=2, b=5	output=-3	
+3	Multiplication 	a=1, b=2	output=2	
+4	square root	a=25	output=5	
+5	power	A=2, b=5	output=32	
+6	log	2	output=0.693	
+7	Fahrenheit to Celsius	30	output=-1.111	
+8	Celsius to Fahrenheit	100	output=212	
+9	Celsius to kelvin	50	output=323.15	
+10	Kelvin to Celsius	300	output=26.85	
+11	Km to m	1	output=1000	
+12	m to km	10	output=0.01	
+13	Foot to inches	3	output=36	
+14	Yard to m	1	output=0.9144	
+15	Prime or composite	2	output=prime	
+16	Prime or composite	1	output=composite	
+
