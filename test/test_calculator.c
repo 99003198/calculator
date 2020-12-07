@@ -111,6 +111,7 @@ void test_power(void)
   CU_ASSERT_EQUAL(343, power(7,3));
   CU_ASSERT_EQUAL(125000, power(50,3));
 }
+
 void test_prime_composite(void)
 {
   CU_ASSERT_EQUAL(0, prime_composite(2));
