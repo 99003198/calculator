@@ -28,10 +28,6 @@ int main() {
     return CU_get_error();
   CU_pSuite suite = CU_add_suite(PROJECT_NAME, 0, 0);
 /* Note: Do not edit END */
-  
-  
-  
-  
 
 
   CU_add_test(suite, "TEST_SUM", test_sum);
