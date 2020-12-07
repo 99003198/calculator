@@ -28,6 +28,11 @@ int main() {
     return CU_get_error();
   CU_pSuite suite = CU_add_suite(PROJECT_NAME, 0, 0);
 /* Note: Do not edit END */
+  
+  
+  
+  
+
 
   CU_add_test(suite, "TEST_SUM", test_sum);
   CU_add_test(suite, "TEST_SUB", test_sub);
@@ -56,7 +61,6 @@ int main() {
 /* Note: Do not edit END */
   return 0;
 }
-
 
 void test_sum(void) {
   CU_ASSERT_EQUAL(74.000, sum(51,23));
