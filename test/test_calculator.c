@@ -57,8 +57,6 @@ int main() {
   return 0;
 }
 
-
-
 void test_sum(void) {
   CU_ASSERT_EQUAL(74.000, sum(51,23));
   CU_ASSERT_EQUAL(30.00, sum(17,13));
