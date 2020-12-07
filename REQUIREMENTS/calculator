@@ -1,21 +1,22 @@
 HIGH LEVEL REQUIREMENTS:
-arithmetic operations
-convertions
-logarithms
-squareroot
-power of a number
+    Algebraic Operations
+    Unit conversions
+    logarithms
 LOW LEVEL REQUIREMENTS:
-addition
-subtraction
-multiplication
-yards to meter
-meter to yard
-foot to inches
-inches to foot
-kilometer to metre
-meter to kilometer
-prime or composite
+    addition
+    subtraction
+    multiplication
+    yards to meter
+    meter to yard
+    foot to inches
+    inches to foot
+    kilometer to meter
+    meter to kilometer
+    prime or composite
+    fahrenheit to celsius
+    celsius to fahrenheit
+    kelvin to celsius
+    celsius to kelvin
 TOOLS REQUIRED:
-Visual studio code
-Ms word
-draw.io
+    Visual studio code
+    draw.io
