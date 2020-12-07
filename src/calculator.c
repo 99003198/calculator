@@ -1,6 +1,7 @@
 
 #include "calculator.h"
 
+
 double sum(double operand1, double operand2)
 {
     return operand1 + operand2;
@@ -65,6 +66,7 @@ double kelvin_to_celsius(double kelvin)
     celsius = kelvin-273;
     return celsius;
 }
+
 double km_to_m(double km)
 {
     double m;
