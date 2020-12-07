@@ -4,6 +4,9 @@ int choice;
 double x,y;
 int main()
 {
+	
+	
+	
     int opt;
     double n1,n2;
     double res;
