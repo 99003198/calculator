@@ -6,6 +6,7 @@
 #include <math.h>
 
 
+
 double sum(double operand1, double operand2);
 double sub(double operand1, double operand2);
 double mul(double operand1, double operand2);
@@ -21,5 +22,6 @@ double m_to_cm(double m);
 double ft_to_inches(double ft);
 double yard_to_m(double yard);
 int prime_composite(int value);
+
 
 #endif
